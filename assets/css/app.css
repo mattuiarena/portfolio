@@ -87,56 +87,56 @@
 
 @font-face {
 	font-family: Gilroy;
-	src: url(/assets/fonts/Gilroy-Regular.otf) format("opentype");
+	src: url(https://mattuiarena.github.io/portfoliohttps://mattuiarena.github.io/portfolio/assets/fonts/Gilroy-Regular.otf) format("opentype");
 	font-weight: 400;
 	font-style: normal
 }
 
 @font-face {
 	font-family: "Gilroy - Bold";
-	src: url(/assets/fonts/Gilroy-Bold.otf) format("opentype");
+	src: url(https://mattuiarena.github.io/portfoliohttps://mattuiarena.github.io/portfolio/assets/fonts/Gilroy-Bold.otf) format("opentype");
 	font-weight: 400;
 	font-style: normal
 }
 
 @font-face {
 	font-family: "Gilroy - Medium";
-	src: url(/assets/fonts/Gilroy-Medium.otf) format("opentype");
+	src: url(https://mattuiarena.github.io/portfoliohttps://mattuiarena.github.io/portfolio/assets/fonts/Gilroy-Medium.otf) format("opentype");
 	font-weight: 400;
 	font-style: normal
 }
 
 @font-face {
 	font-family: "Gilroy - Semibold";
-	src: url(/assets/fonts/Gilroy-Semibold.otf) format("opentype");
+	src: url(https://mattuiarena.github.io/portfoliohttps://mattuiarena.github.io/portfolio/assets/fonts/Gilroy-Semibold.otf) format("opentype");
 	font-weight: 400;
 	font-style: normal
 }
 
 @font-face {
 	font-family: Montserrat;
-	src: url(/assets/fonts/Montserrat-Regular.otf) format("opentype");
+	src: url(https://mattuiarena.github.io/portfoliohttps://mattuiarena.github.io/portfolio/assets/fonts/Montserrat-Regular.otf) format("opentype");
 	font-weight: 400;
 	font-style: normal
 }
 
 @font-face {
 	font-family: "Montserrat - Bold";
-	src: url(/assets/fonts/Montserrat-Bold.otf) format("opentype");
+	src: url(https://mattuiarena.github.io/portfoliohttps://mattuiarena.github.io/portfolio/assets/fonts/Montserrat-Bold.otf) format("opentype");
 	font-weight: 400;
 	font-style: normal
 }
 
 @font-face {
 	font-family: "Montserrat - Medium";
-	src: url(/assets/fonts/Montserrat-Medium.otf) format("opentype");
+	src: url(https://mattuiarena.github.io/portfoliohttps://mattuiarena.github.io/portfolio/assets/fonts/Montserrat-Medium.otf) format("opentype");
 	font-weight: 400;
 	font-style: normal
 }
 
 @font-face {
 	font-family: "Montserrat - Semibold";
-	src: url(/assets/fonts/Montserrat-SemiBold.otf) format("opentype");
+	src: url(https://mattuiarena.github.io/portfoliohttps://mattuiarena.github.io/portfolio/assets/fonts/Montserrat-SemiBold.otf) format("opentype");
 	font-weight: 400;
 	font-style: normal
 }
@@ -246,7 +246,7 @@
 }
 
 .checked-icon--blue {
-	background: url(/assets/img/checked-icon--blue.svg) no-repeat center center
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/checked-icon--blue.svg) no-repeat center center
 }
 
 .dashbord-icon {
@@ -255,7 +255,7 @@
 }
 
 .dashbord-icon--blue {
-	background: url(/assets/img/dashbord-icon--blue.svg) no-repeat center center
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/dashbord-icon--blue.svg) no-repeat center center
 }
 
 .portfolio-icon {
@@ -264,7 +264,7 @@
 }
 
 .portfolio-icon--blue {
-	background: url(/assets/img/portfolio-icon--blue.svg) no-repeat center center
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/portfolio-icon--blue.svg) no-repeat center center
 }
 
 .intranet-icon {
@@ -273,7 +273,7 @@
 }
 
 .intranet-icon--blue {
-	background: url(/assets/img/intranet-icon--blue.svg) no-repeat center center
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/intranet-icon--blue.svg) no-repeat center center
 }
 
 .documents-icon {
@@ -282,7 +282,7 @@
 }
 
 .documents-icon--blue {
-	background: url(/assets/img/documents-icon--blue.svg) no-repeat center center
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/documents-icon--blue.svg) no-repeat center center
 }
 
 .letter-icon {
@@ -291,7 +291,7 @@
 }
 
 .letter-icon--blue {
-	background: url(/assets/img/letter-icon--blue.svg) no-repeat center center
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/letter-icon--blue.svg) no-repeat center center
 }
 
 .properties-icon {
@@ -300,7 +300,7 @@
 }
 
 .properties-icon--blue {
-	background: url(/assets/img/properties-icon--blue.svg) no-repeat center center
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/properties-icon--blue.svg) no-repeat center center
 }
 
 .arrow-icon {
@@ -309,7 +309,7 @@
 }
 
 .arrow-icon--white {
-	background: url(/assets/img/arrow-icon--white.svg) no-repeat center center
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/arrow-icon--white.svg) no-repeat center center
 }
 
 .hide {
@@ -458,15 +458,15 @@ button {
 .main-banner .logo {
 	width: 128px;
 	height: 50px;
-	background: url(/assets/img/logo.png) no-repeat
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/logo.png) no-repeat
 }
 
 .main-banner .logo--inverse {
-	background: url(/assets/img/logo-black.png) no-repeat
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/logo-black.png) no-repeat
 }
 
 .main-banner .header--inverse .logo {
-	background: url(/assets/img/logo-black.png) no-repeat
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/logo-black.png) no-repeat
 }
 
 .main-banner .header--inverse .navbar__item a {
@@ -738,7 +738,7 @@ button {
 }
 
 .glide__bullets button.glide__bullet--active {
-	background-image: url(/assets/img/slider-arrows-middle.svg);
+	background-image: url(https://mattuiarena.github.io/portfolio/assets/img/slider-arrows-middle.svg);
 	width: 58px;
 	height: 58px;
 	background-position: 50% 50%;
@@ -1120,27 +1120,27 @@ button {
 }
 
 .case-studies__project--msfit .case-studies__project-picture {
-	background-image: url(/assets/img/msfit-case-studies.png)
+	background-image: url(https://mattuiarena.github.io/portfolio/assets/img/msfit-case-studies.png)
 }
 
 .case-studies__project--sprout .case-studies__project-picture {
-	background-image: url(/assets/img/sprout.png)
+	background-image: url(https://mattuiarena.github.io/portfolio/assets/img/sprout.png)
 }
 
 .case-studies__project--diprella .case-studies__project-picture {
-	background-image: url(/assets/img/diprella-case-studies.png)
+	background-image: url(https://mattuiarena.github.io/portfolio/assets/img/diprella-case-studies.png)
 }
 
 .case-studies__project--synapses .case-studies__project-picture {
-	background-image: url(/assets/img/synapses-case-studies.png)
+	background-image: url(https://mattuiarena.github.io/portfolio/assets/img/synapses-case-studies.png)
 }
 
 .case-studies__project--life4me .case-studies__project-picture {
-	background-image: url(/assets/img/life4me.png)
+	background-image: url(https://mattuiarena.github.io/portfolio/assets/img/life4me.png)
 }
 
 .case-studies__project--wizebit .case-studies__project-picture {
-	background-image: url(/assets/img/wizebit.png)
+	background-image: url(https://mattuiarena.github.io/portfolio/assets/img/wizebit.png)
 }
 
 .case-studies__project-inner {
@@ -1283,7 +1283,7 @@ button {
 
 @media screen and (max-width:768px) {
 	.homepage .main-banner {
-		background: url(/assets/img/bg.jpg) no-repeat center center
+		background: url(https://mattuiarena.github.io/portfolio/assets/img/bg.jpg) no-repeat center center
 	}
 }
 
@@ -1308,7 +1308,7 @@ button {
 }
 
 .homepage .main-banner__video.loading {
-	background: #000 url(/assets/img/bg.jpg) center center no-repeat
+	background: #000 url(https://mattuiarena.github.io/portfolio/assets/img/bg.jpg) center center no-repeat
 }
 
 .homepage .main-banner__title-box {
@@ -1387,7 +1387,7 @@ button {
 	width: 28px;
 	height: 40px;
 	border-radius: 14px;
-	background: url(/assets/img/mouse-without-scroll.svg) center center no-repeat
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/mouse-without-scroll.svg) center center no-repeat
 }
 
 .homepage .main-banner__mouse .scroll {
@@ -1728,40 +1728,40 @@ button {
 }
 
 .homepage .project__picture--msfit {
-	background: url(/assets/img/msfit-large.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/msfit-large.png) no-repeat center center;
 	background-size: contain
 }
 
 @media (-webkit-min-device-pixel-ratio:2),
 (min-resolution:192dpi) {
 	.homepage .project__picture--msfit {
-		background: url(/assets/img/msfit-large@2x.png) no-repeat center center;
+		background: url(https://mattuiarena.github.io/portfolio/assets/img/msfit-large@2x.png) no-repeat center center;
 		background-size: contain
 	}
 }
 
 .homepage .project__picture--ghost-drive {
-	background: url(/assets/img/rb_screen1.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/rb_screen1.png) no-repeat center center;
 	background-size: contain
 }
 
 @media (-webkit-min-device-pixel-ratio:2),
 (min-resolution:192dpi) {
 	.homepage .project__picture--ghost-drive {
-		background: url(/assets/img/ghost-drive-large@2x.png) no-repeat center center;
+		background: url(https://mattuiarena.github.io/portfolio/assets/img/ghost-drive-large@2x.png) no-repeat center center;
 		background-size: contain
 	}
 }
 
 .homepage .project__picture--diprella {
-	background: url(/assets/img/diprella-large@2x.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/diprella-large@2x.png) no-repeat center center;
 	background-size: contain
 }
 
 @media (-webkit-min-device-pixel-ratio:2),
 (min-resolution:192dpi) {
 	.homepage .project__picture--diprella {
-		background: url(/assets/img/diprella-large@2x.png) no-repeat center center;
+		background: url(https://mattuiarena.github.io/portfolio/assets/img/diprella-large@2x.png) no-repeat center center;
 		background-size: contain
 	}
 }
@@ -2126,7 +2126,7 @@ button {
 	-ms-flex-align: center;
 	align-items: center;
 	position: relative;
-	background: url(/assets/img/about-us-bg.png);
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/about-us-bg.png);
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover
@@ -2486,19 +2486,19 @@ button {
 .about-us .skills-list-item__icon--web {
 	width: 54px;
 	height: 39px;
-	background: url(/assets/img/icon-web.svg)
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/icon-web.svg)
 }
 
 .about-us .skills-list-item__icon--chart {
 	width: 44px;
 	height: 44px;
-	background: url(/assets/img/icon-chart.svg)
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/icon-chart.svg)
 }
 
 .about-us .skills-list-item__icon--ui {
 	width: 44px;
 	height: 44px;
-	background: url(/assets/img/icon-ui.svg)
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/icon-ui.svg)
 }
 
 .about-us .photos-block img {
@@ -2673,7 +2673,7 @@ button {
 	-ms-flex-align: center;
 	align-items: center;
 	position: relative;
-	background: url(/assets/img/services-bg.png);
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/services-bg.png);
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover
@@ -5061,7 +5061,7 @@ button {
 .casepage .case-solution__icon--arrow {
 	width: 65px;
 	height: 8px;
-	background: url(/assets/img/arrow-icon.svg);
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/arrow-icon.svg);
 	position: relative;
 	top: -35px
 }
@@ -5069,37 +5069,37 @@ button {
 .casepage .case-solution__icon--goal {
 	width: 76px;
 	height: 76px;
-	background: url(/assets/img/goal-icon.svg)
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/goal-icon.svg)
 }
 
 .casepage .case-solution__icon--workout {
 	width: 84px;
 	height: 46px;
-	background: url(/assets/img/workout-icon.svg)
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/workout-icon.svg)
 }
 
 .casepage .case-solution__icon--trophy {
 	width: 73px;
 	height: 70px;
-	background: url(/assets/img/trophy-icon.svg)
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/trophy-icon.svg)
 }
 
 .casepage .case-solution__icon--research {
 	width: 123px;
 	height: 123px;
-	background: url(/assets/img/research-icon.svg)
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/research-icon.svg)
 }
 
 .casepage .case-solution__icon--branding {
 	width: 116px;
 	height: 108px;
-	background: url(/assets/img/branding-icon.svg)
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/branding-icon.svg)
 }
 
 .casepage .case-solution__icon--development {
 	width: 123px;
 	height: 123px;
-	background: url(/assets/img/development-icon.svg)
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/development-icon.svg)
 }
 
 .case-results {
@@ -5267,7 +5267,7 @@ button {
 }
 
 .realforce .main-banner {
-	background: url(/assets/img/realforce-banner.png);
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/realforce-banner.png);
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover
@@ -5300,17 +5300,17 @@ button {
 }
 
 .realforce .case-details__picture-large {
-	background: url(/assets/img/realforce-picture1.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/realforce-picture1.png) no-repeat center center;
 	background-size: cover
 }
 
 .realforce .case-details__picture-top {
-	background: url(/assets/img/realforce-picture2.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/realforce-picture2.png) no-repeat center center;
 	background-size: cover
 }
 
 .realforce .case-details__picture-bottom {
-	background: url(/assets/img/realforce-picture3.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/realforce-picture3.png) no-repeat center center;
 	background-size: cover
 }
 
@@ -5434,7 +5434,7 @@ button {
 }
 
 .realforce .screens-block {
-	background: url(/assets/img/realforce-screens-bg.svg);
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/realforce-screens-bg.svg);
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -5470,24 +5470,24 @@ button {
 }
 
 .wizebit .main-banner {
-	background: url(/assets/img/wizebit-bg.svg);
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/wizebit-bg.svg);
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover
 }
 
 .wizebit .case-details__picture-large {
-	background: url(/assets/img/wizebit-picture1.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/wizebit-picture1.png) no-repeat center center;
 	background-size: cover
 }
 
 .wizebit .case-details__picture-top {
-	background: url(/assets/img/wizebit-picture2.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/wizebit-picture2.png) no-repeat center center;
 	background-size: cover
 }
 
 .wizebit .case-details__picture-bottom {
-	background: url(/assets/img/wizebit-picture3.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/wizebit-picture3.png) no-repeat center center;
 	background-size: cover
 }
 
@@ -5588,7 +5588,7 @@ button {
 	content: "";
 	width: 127px;
 	height: 94px;
-	background: url(/assets/img/wizebit-icon-auth.svg) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/wizebit-icon-auth.svg) no-repeat center center;
 	background-size: cover;
 	position: absolute;
 	display: block;
@@ -5609,7 +5609,7 @@ button {
 	content: "";
 	width: 78px;
 	height: 120px;
-	background: url(/assets/img/wizebit-icon-ghost.svg) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/wizebit-icon-ghost.svg) no-repeat center center;
 	background-size: cover;
 	position: absolute;
 	display: block;
@@ -5630,7 +5630,7 @@ button {
 	content: "";
 	width: 78px;
 	height: 116px;
-	background: url(/assets/img/wizebit-icon-luna.svg) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/wizebit-icon-luna.svg) no-repeat center center;
 	background-size: cover;
 	position: absolute;
 	top: 50%;
@@ -5686,7 +5686,7 @@ button {
 }
 
 .wizebit .case-technology__picture-middle {
-	background: url(/assets/img/wizebit-phone-2.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/wizebit-phone-2.png) no-repeat center center;
 	background-size: contain;
 	-webkit-align-self: center;
 	-ms-flex-item-align: center;
@@ -5709,17 +5709,17 @@ button {
 }
 
 .wizebit .case-technology__picture-top {
-	background: url(/assets/img/wizebit-phone-1.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/wizebit-phone-1.png) no-repeat center center;
 	background-size: contain
 }
 
 .wizebit .case-technology__picture-bottom {
-	background: url(/assets/img/wizebit-phone-3.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/wizebit-phone-3.png) no-repeat center center;
 	background-size: contain
 }
 
 .wizebit .case-technology__picture--luna-interface {
-	background: url(/assets/img/luna-interface.png) no-repeat center bottom;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/luna-interface.png) no-repeat center bottom;
 	background-size: contain;
 	max-width: 620px;
 	max-height: 882px;
@@ -5740,7 +5740,7 @@ button {
 }
 
 .wizebit .case-technology {
-	background: url(/assets/img/wizebit-wizefactor-bg.svg) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/wizebit-wizefactor-bg.svg) no-repeat center center;
 	background-size: cover
 }
 
@@ -5750,7 +5750,7 @@ button {
 
 .wizebit .case-technology .case-technology__title:before {
 	content: "";
-	background: url(/assets/img/wizebit-logo.svg);
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/wizebit-logo.svg);
 	width: 69px;
 	height: 51px;
 	background-size: cover;
@@ -5767,7 +5767,7 @@ button {
 }
 
 .wizebit .screens-block {
-	background: url(/assets/img/wizebit-screens-bg.svg);
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/wizebit-screens-bg.svg);
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -5824,7 +5824,7 @@ button {
 
 .wizebit .screens-block__title:before {
 	content: "";
-	background: url(/assets/img/ghost-logo.svg);
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/ghost-logo.svg);
 	width: 42px;
 	height: 62px;
 	background-size: cover;
@@ -5929,7 +5929,7 @@ button {
 
 .wizebit .case-technology.luna .case-technology__title:before {
 	content: "";
-	background: url(/assets/img/luna-logo.svg);
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/luna-logo.svg);
 	width: 74px;
 	height: 74px;
 	background-size: cover;
@@ -5968,7 +5968,7 @@ button {
 }
 
 .private-case2 .main-banner {
-	background: url(/assets/img/private-case2-bg.svg);
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/private-case2-bg.svg);
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -6043,17 +6043,17 @@ button {
 }
 
 .private-case2 .case-details__picture-large {
-	background: url(/assets/img/private-case2-picture1.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/private-case2-picture1.png) no-repeat center center;
 	background-size: cover
 }
 
 .private-case2 .case-details__picture-top {
-	background: url(/assets/img/private-case2-picture2.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/private-case2-picture2.png) no-repeat center center;
 	background-size: cover
 }
 
 .private-case2 .case-details__picture-bottom {
-	background: url(/assets/img/private-case2-picture3.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/private-case2-picture3.png) no-repeat center center;
 	background-size: cover
 }
 
@@ -6068,7 +6068,7 @@ button {
 }
 
 .private-case5 .main-banner {
-	background: url(/assets/img/private-case5-bg.svg);
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/private-case5-bg.svg);
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -6126,22 +6126,22 @@ button {
 }
 
 .private-case5 .case-details__picture-large {
-	background: url(/assets/img/private-case5-picture1.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/private-case5-picture1.png) no-repeat center center;
 	background-size: cover
 }
 
 .private-case5 .case-details__picture-top {
-	background: url(/assets/img/private-case5-picture2.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/private-case5-picture2.png) no-repeat center center;
 	background-size: cover
 }
 
 .private-case5 .case-details__picture-bottom {
-	background: url(/assets/img/private-case5-picture3.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/private-case5-picture3.png) no-repeat center center;
 	background-size: cover
 }
 
 .private-case5 .screens-block {
-	background: url(/assets/img/private-case5-screens-bg.svg);
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/private-case5-screens-bg.svg);
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -6253,24 +6253,24 @@ button {
 }
 
 .private-case4 .main-banner {
-	background: url(/assets/img/private-case4-bg.svg);
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/private-case4-bg.svg);
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover
 }
 
 .private-case4 .case-details__picture-large {
-	background: url(/assets/img/private-case4-picture1.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/private-case4-picture1.png) no-repeat center center;
 	background-size: cover
 }
 
 .private-case4 .case-details__picture-top {
-	background: url(/assets/img/private-case4-picture2.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/private-case4-picture2.png) no-repeat center center;
 	background-size: cover
 }
 
 .private-case4 .case-details__picture-bottom {
-	background: url(/assets/img/private-case4-picture3.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/private-case4-picture3.png) no-repeat center center;
 	background-size: cover
 }
 
@@ -6283,7 +6283,7 @@ button {
 }
 
 .private-case4 .case-technology.phones {
-	background: url(/assets/img/private-case4-phones-bg.svg) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/private-case4-phones-bg.svg) no-repeat center center;
 	background-size: cover;
 	padding: 160px 30px
 }
@@ -6301,7 +6301,7 @@ button {
 }
 
 .private-case4 .case-technology__picture-middle {
-	background: url(/assets/img/private-case4-phone-2.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/private-case4-phone-2.png) no-repeat center center;
 	background-size: contain;
 	-webkit-align-self: center;
 	-ms-flex-item-align: center;
@@ -6324,13 +6324,13 @@ button {
 }
 
 .private-case4 .case-technology__picture-top {
-	background: url(/assets/img/private-case4-phone-1.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/private-case4-phone-1.png) no-repeat center center;
 	background-size: contain;
 	margin-bottom: 41px
 }
 
 .private-case4 .case-technology__picture-bottom {
-	background: url(/assets/img/private-case4-phone-3.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/private-case4-phone-3.png) no-repeat center center;
 	background-size: contain
 }
 
@@ -6361,24 +6361,24 @@ button {
 }
 
 .synapses .main-banner {
-	background: url(/assets/img/synapses-bg.svg);
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/synapses-bg.svg);
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover
 }
 
 .synapses .case-details__picture-large {
-	background: url(/assets/img/synapses-picture1.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/synapses-picture1.png) no-repeat center center;
 	background-size: cover
 }
 
 .synapses .case-details__picture-top {
-	background: url(/assets/img/synapses-picture2.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/synapses-picture2.png) no-repeat center center;
 	background-size: cover
 }
 
 .synapses .case-details__picture-bottom {
-	background: url(/assets/img/synapses-picture3.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/synapses-picture3.png) no-repeat center center;
 	background-size: cover
 }
 
@@ -6391,7 +6391,7 @@ button {
 }
 
 .synapses .case-technology.phones {
-	background: url(/assets/img/synapses-phones-bg.svg) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/synapses-phones-bg.svg) no-repeat center center;
 	background-size: cover;
 	padding: 160px 30px
 }
@@ -6409,7 +6409,7 @@ button {
 }
 
 .synapses .case-technology__picture-middle {
-	background: url(/assets/img/synapses-phone-2.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/synapses-phone-2.png) no-repeat center center;
 	background-size: contain;
 	-webkit-align-self: center;
 	-ms-flex-item-align: center;
@@ -6432,13 +6432,13 @@ button {
 }
 
 .synapses .case-technology__picture-top {
-	background: url(/assets/img/synapses-phone-1.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/synapses-phone-1.png) no-repeat center center;
 	background-size: contain;
 	margin-bottom: 41px
 }
 
 .synapses .case-technology__picture-bottom {
-	background: url(/assets/img/synapses-phone-3.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/synapses-phone-3.png) no-repeat center center;
 	background-size: contain
 }
 
@@ -6499,24 +6499,24 @@ button {
 }
 
 .sprout .main-banner {
-	background: url(/assets/img/sprout-bg.svg);
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/sprout-bg.svg);
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover
 }
 
 .sprout .case-details__picture-large {
-	background: url(/assets/img/sprout-picture1.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/sprout-picture1.png) no-repeat center center;
 	background-size: cover
 }
 
 .sprout .case-details__picture-top {
-	background: url(/assets/img/sprout-picture2.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/sprout-picture2.png) no-repeat center center;
 	background-size: cover
 }
 
 .sprout .case-details__picture-bottom {
-	background: url(/assets/img/sprout-picture3.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/sprout-picture3.png) no-repeat center center;
 	background-size: cover
 }
 
@@ -6529,7 +6529,7 @@ button {
 }
 
 .sprout .case-technology.phones {
-	background: url(/assets/img/sprout-phones-bg.svg) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/sprout-phones-bg.svg) no-repeat center center;
 	background-size: cover;
 	padding: 160px 30px
 }
@@ -6547,7 +6547,7 @@ button {
 }
 
 .sprout .case-technology__picture-middle {
-	background: url(/assets/img/sprout-phone-2.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/sprout-phone-2.png) no-repeat center center;
 	background-size: contain;
 	-webkit-align-self: center;
 	-ms-flex-item-align: center;
@@ -6570,13 +6570,13 @@ button {
 }
 
 .sprout .case-technology__picture-top {
-	background: url(/assets/img/sprout-phone-1.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/sprout-phone-1.png) no-repeat center center;
 	background-size: contain;
 	margin-bottom: 41px
 }
 
 .sprout .case-technology__picture-bottom {
-	background: url(/assets/img/sprout-phone-3.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/sprout-phone-3.png) no-repeat center center;
 	background-size: contain
 }
 
@@ -6652,24 +6652,24 @@ button {
 }
 
 .woom .main-banner {
-	background: url(/assets/img/woom-bg.svg);
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/woom-bg.svg);
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover
 }
 
 .woom .case-details__picture-large {
-	background: url(/assets/img/woom-picture1.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/woom-picture1.png) no-repeat center center;
 	background-size: cover
 }
 
 .woom .case-details__picture-top {
-	background: url(/assets/img/woom-picture2.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/woom-picture2.png) no-repeat center center;
 	background-size: cover
 }
 
 .woom .case-details__picture-bottom {
-	background: url(/assets/img/woom-picture3.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/woom-picture3.png) no-repeat center center;
 	background-size: cover
 }
 
@@ -6686,7 +6686,7 @@ button {
 }
 
 .woom .case-technology.phones {
-	background: url(/assets/img/woom-phones-bg.svg) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/woom-phones-bg.svg) no-repeat center center;
 	background-size: cover;
 	padding: 160px 30px
 }
@@ -6704,7 +6704,7 @@ button {
 }
 
 .woom .case-technology__picture-middle {
-	background: url(/assets/img/woom-phone-2.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/woom-phone-2.png) no-repeat center center;
 	background-size: contain;
 	-webkit-align-self: center;
 	-ms-flex-item-align: center;
@@ -6728,13 +6728,13 @@ button {
 }
 
 .woom .case-technology__picture-top {
-	background: url(/assets/img/woom-phone-1.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/woom-phone-1.png) no-repeat center center;
 	background-size: contain;
 	margin-bottom: 41px
 }
 
 .woom .case-technology__picture-bottom {
-	background: url(/assets/img/woom-phone-3.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/woom-phone-3.png) no-repeat center center;
 	background-size: contain
 }
 
@@ -6779,7 +6779,7 @@ button {
 }
 
 .sodichan .main-banner {
-	background: url(/assets/img/sodichan-bg.svg);
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/sodichan-bg.svg);
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -6825,22 +6825,22 @@ button {
 }
 
 .sodichan .case-details__picture-large {
-	background: url(/assets/img/sodichan-picture1.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/sodichan-picture1.png) no-repeat center center;
 	background-size: cover
 }
 
 .sodichan .case-details__picture-top {
-	background: url(/assets/img/sodichan-picture2.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/sodichan-picture2.png) no-repeat center center;
 	background-size: cover
 }
 
 .sodichan .case-details__picture-bottom {
-	background: url(/assets/img/sodichan-picture3.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/sodichan-picture3.png) no-repeat center center;
 	background-size: cover
 }
 
 .sodichan .screens-block {
-	background: url(/assets/img/sodichan-screens-bg.svg);
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/sodichan-screens-bg.svg);
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -7004,7 +7004,7 @@ button {
 }
 
 .life4me .main-banner {
-	background: url(/assets/img/life4me-bg.svg);
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/life4me-bg.svg);
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -7050,17 +7050,17 @@ button {
 }
 
 .life4me .case-details__picture-large {
-	background: url(/assets/img/life4me-picture1.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/life4me-picture1.png) no-repeat center center;
 	background-size: cover
 }
 
 .life4me .case-details__picture-top {
-	background: url(/assets/img/life4me-picture2.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/life4me-picture2.png) no-repeat center center;
 	background-size: cover
 }
 
 .life4me .case-details__picture-bottom {
-	background: url(/assets/img/life4me-picture3.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/life4me-picture3.png) no-repeat center center;
 	background-size: cover
 }
 
@@ -7073,7 +7073,7 @@ button {
 }
 
 .life4me .case-technology.phones {
-	background: url(/assets/img/life4me-phones-bg.svg) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/life4me-phones-bg.svg) no-repeat center center;
 	background-size: cover;
 	padding: 160px 30px
 }
@@ -7091,7 +7091,7 @@ button {
 }
 
 .life4me .case-technology__picture-middle {
-	background: url(/assets/img/life4me-phone-2.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/life4me-phone-2.png) no-repeat center center;
 	background-size: contain;
 	-webkit-align-self: center;
 	-ms-flex-item-align: center;
@@ -7114,13 +7114,13 @@ button {
 }
 
 .life4me .case-technology__picture-top {
-	background: url(/assets/img/life4me-phone-1.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/life4me-phone-1.png) no-repeat center center;
 	background-size: contain;
 	margin-bottom: 41px
 }
 
 .life4me .case-technology__picture-bottom {
-	background: url(/assets/img/life4me-phone-3.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/life4me-phone-3.png) no-repeat center center;
 	background-size: contain
 }
 
@@ -7198,7 +7198,7 @@ button {
 }
 
 .roundlaw .main-banner {
-	background: url(/assets/img/bg-roundlaw.svg);
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/bg-roundlaw.svg);
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -7244,17 +7244,17 @@ button {
 }
 
 .roundlaw .case-details__picture-large {
-	background: url(/assets/img/roundlaw-picture1.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/roundlaw-picture1.png) no-repeat center center;
 	background-size: cover
 }
 
 .roundlaw .case-details__picture-top {
-	background: url(/assets/img/roundlaw-picture2.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/roundlaw-picture2.png) no-repeat center center;
 	background-size: cover
 }
 
 .roundlaw .case-details__picture-bottom {
-	background: url(/assets/img/roundlaw-picture3.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/roundlaw-picture3.png) no-repeat center center;
 	background-size: cover
 }
 
@@ -7359,7 +7359,7 @@ button {
 }
 
 .private-case1 .main-banner {
-	background: url(/assets/img/private-case1-bg.svg);
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/private-case1-bg.svg);
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -7416,22 +7416,22 @@ button {
 }
 
 .private-case1 .case-details__picture-large {
-	background: url(/assets/img/private-case1-picture1.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/private-case1-picture1.png) no-repeat center center;
 	background-size: cover
 }
 
 .private-case1 .case-details__picture-top {
-	background: url(/assets/img/private-case1-picture2.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/private-case1-picture2.png) no-repeat center center;
 	background-size: cover
 }
 
 .private-case1 .case-details__picture-bottom {
-	background: url(/assets/img/private-case1-picture3.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/private-case1-picture3.png) no-repeat center center;
 	background-size: cover
 }
 
 .private-case1 .screens-block {
-	background: url(/assets/img/private-case1-screens-bg.svg);
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/private-case1-screens-bg.svg);
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -7571,24 +7571,24 @@ button {
 }
 
 .msfit .main-banner {
-	background: url(/assets/img/msfit-bg.svg);
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/msfit-bg.svg);
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover
 }
 
 .msfit .case-details__picture-large {
-	background: url(/assets/img/msfit-picture1.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/msfit-picture1.png) no-repeat center center;
 	background-size: cover
 }
 
 .msfit .case-details__picture-top {
-	background: url(/assets/img/msfit-picture2.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/msfit-picture2.png) no-repeat center center;
 	background-size: cover
 }
 
 .msfit .case-details__picture-bottom {
-	background: url(/assets/img/msfit-picture3.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/msfit-picture3.png) no-repeat center center;
 	background-size: cover
 }
 
@@ -7636,7 +7636,7 @@ button {
 
 .msfit .case-results__box.awards-block .case-results__number:before {
 	content: "";
-	background: url(/assets/img/awards-icon.png);
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/awards-icon.png);
 	position: absolute;
 	width: 130px;
 	height: 124px;
@@ -7732,7 +7732,7 @@ button {
 .msfit .case-solution__icon--trophy::before,
 .msfit .case-solution__icon--workout::before {
 	content: "";
-	background: url(/assets/img/underline-icon.svg);
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/underline-icon.svg);
 	width: 57px;
 	height: 5px;
 	position: absolute;
@@ -7741,7 +7741,7 @@ button {
 }
 
 .msfit .screens-block {
-	background: url(/assets/img/msfit-screens-bg.svg);
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/msfit-screens-bg.svg);
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -7867,7 +7867,7 @@ button {
 }
 
 .diprella .main-banner {
-	background: url(/assets/img/diprella-bg.svg);
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/diprella-bg.svg);
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -7925,17 +7925,17 @@ button {
 }
 
 .diprella .case-details__picture-large {
-	background: url(/assets/img/diprella-picture1.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/diprella-picture1.png) no-repeat center center;
 	background-size: cover
 }
 
 .diprella .case-details__picture-top {
-	background: url(/assets/img/diprella-picture2.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/diprella-picture2.png) no-repeat center center;
 	background-size: cover
 }
 
 .diprella .case-details__picture-bottom {
-	background: url(/assets/img/diprella-picture3.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/diprella-picture3.png) no-repeat center center;
 	background-size: cover
 }
 
@@ -7948,7 +7948,7 @@ button {
 }
 
 .diprella .screens-block {
-	background: url(/assets/img/diprella-screens-bg-1.svg);
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/diprella-screens-bg-1.svg);
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -7968,7 +7968,7 @@ button {
 }
 
 .diprella .screens-block+.screens-block {
-	background: url(/assets/img/diprella-screens-bg-2.svg);
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/diprella-screens-bg-2.svg);
 	margin-top: -1px
 }
 
@@ -8081,7 +8081,7 @@ button {
 }
 
 .private-case3 .main-banner {
-	background: url(/assets/img/private-case3-bg.svg);
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/private-case3-bg.svg);
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -8131,17 +8131,17 @@ button {
 }
 
 .private-case3 .case-details__picture-large {
-	background: url(/assets/img/private-case3-picture1.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/private-case3-picture1.png) no-repeat center center;
 	background-size: cover
 }
 
 .private-case3 .case-details__picture-top {
-	background: url(/assets/img/private-case3-picture2.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/private-case3-picture2.png) no-repeat center center;
 	background-size: cover
 }
 
 .private-case3 .case-details__picture-bottom {
-	background: url(/assets/img/private-case3-picture3.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/private-case3-picture3.png) no-repeat center center;
 	background-size: cover
 }
 
@@ -8154,7 +8154,7 @@ button {
 }
 
 .private-case3 .case-technology.phones {
-	background: url(/assets/img/private-case3-phones-bg.svg) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/private-case3-phones-bg.svg) no-repeat center center;
 	background-size: cover;
 	padding: 160px 30px;
 	margin-top: -2px
@@ -8173,7 +8173,7 @@ button {
 }
 
 .private-case3 .case-technology__picture-middle {
-	background: url(/assets/img/private-case3-phone-2.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/private-case3-phone-2.png) no-repeat center center;
 	background-size: contain;
 	-webkit-align-self: center;
 	-ms-flex-item-align: center;
@@ -8196,13 +8196,13 @@ button {
 }
 
 .private-case3 .case-technology__picture-top {
-	background: url(/assets/img/private-case3-phone-1.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/private-case3-phone-1.png) no-repeat center center;
 	background-size: contain;
 	margin-bottom: 41px
 }
 
 .private-case3 .case-technology__picture-bottom {
-	background: url(/assets/img/private-case3-phone-3.png) no-repeat center center;
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/private-case3-phone-3.png) no-repeat center center;
 	background-size: contain
 }
 
@@ -8255,7 +8255,7 @@ button {
 }
 
 .private-case3 .screens-block {
-	background: url(/assets/img/private-case3-screens-bg.svg);
+	background: url(https://mattuiarena.github.io/portfolio/assets/img/private-case3-screens-bg.svg);
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
